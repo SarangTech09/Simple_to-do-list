@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Simple_to-do-list/static/css/main.2aa96ae7.css",
+    "main.js": "/Simple_to-do-list/static/js/main.e0bbbf8b.js",
+    "index.html": "/Simple_to-do-list/index.html",
+    "main.2aa96ae7.css.map": "/Simple_to-do-list/static/css/main.2aa96ae7.css.map",
+    "main.e0bbbf8b.js.map": "/Simple_to-do-list/static/js/main.e0bbbf8b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2aa96ae7.css",
+    "static/js/main.e0bbbf8b.js"
+  ]
+}
